@@ -3,7 +3,7 @@ Blockchains utilize different mechanisms in order to achieve consensus(agreement
 
 In a system where anyone is welcome to participate, like in the case of public blockchain networks, there has to be a way for the participant of the network to agree on the state of the blockchain.
 
-The state of the blockchain is altered by transactions, that are then packed into blocks and then cryptographically connected to the already agreed upon chain (canonical chain).
+The state of the blockchain is altered by transactions, that are then packed into blocks that are cryptographically connected to the already agreed upon chain (canonical chain).
 
 In a situation where a participant of the network alters the state of the blockchain without the agreement of other participants, their is said to be no consensus. 
 
