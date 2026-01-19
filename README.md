@@ -1,4 +1,4 @@
-# My Blockchain Articles
+# My Blockchain Based Articles
 
 This is a repo for all the articles I have written on blockchain-related topics as i learn:
 
